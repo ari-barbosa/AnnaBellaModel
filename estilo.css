@@ -1,0 +1,47 @@
+
+/* FORMATANDO O BODY */
+body {
+	background: #D2D2C1 url('Imagens/fundo.png');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+/* FORMATANDO O TAMANHO DA IMAGEM */
+#principal {
+	width: 900px; /* Define a largura */
+	/* height: 500px; Define altura*/
+}
+
+/* FORMATANDO O MENU */
+#menu {
+	background: #c5c5b2;
+	padding: 15px; /* Espaçamento interno */
+
+}
+
+a {
+	color: #4b556a;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#conteudo {
+
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+
+.centralizar {
+	text-align: center;
+}
+
+h1 {
+	color: #828271;
+	font-size: 16px;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae ;
+
+}
